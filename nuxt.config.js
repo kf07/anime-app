@@ -24,7 +24,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['reboot.css'],
 
   /*
    ** Plugins to load before mounting the App
